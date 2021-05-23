@@ -1,0 +1,11 @@
+C:\Users\Sammi\source\repos\SmallBeginningsMadLibsGame\SmallBeginningsMadLibsGame\bin\Debug\SmallBeginningsMadLibsGame.exe.config
+C:\Users\Sammi\source\repos\SmallBeginningsMadLibsGame\SmallBeginningsMadLibsGame\bin\Debug\SmallBeginningsMadLibsGame.exe
+C:\Users\Sammi\source\repos\SmallBeginningsMadLibsGame\SmallBeginningsMadLibsGame\bin\Debug\SmallBeginningsMadLibsGame.pdb
+C:\Users\Sammi\source\repos\SmallBeginningsMadLibsGame\SmallBeginningsMadLibsGame\obj\Debug\SmallBeginningsMadLibsGame.csprojAssemblyReference.cache
+C:\Users\Sammi\source\repos\SmallBeginningsMadLibsGame\SmallBeginningsMadLibsGame\obj\Debug\SmallBeginningsMadLibsGame.csproj.CoreCompileInputs.cache
+C:\Users\Sammi\source\repos\SmallBeginningsMadLibsGame\SmallBeginningsMadLibsGame\obj\Debug\SmallBeginningsMadLibsGame.exe
+C:\Users\Sammi\source\repos\SmallBeginningsMadLibsGame\SmallBeginningsMadLibsGame\obj\Debug\SmallBeginningsMadLibsGame.pdb
+C:\Users\Sammi\source\repos\SmallBeginningsMadLibsGame\SmallBeginningsMadLibsGame\bin\Debug\SmallBeginningsMadLibsGame.exe.manifest
+C:\Users\Sammi\source\repos\SmallBeginningsMadLibsGame\SmallBeginningsMadLibsGame\bin\Debug\SmallBeginningsMadLibsGame.application
+C:\Users\Sammi\source\repos\SmallBeginningsMadLibsGame\SmallBeginningsMadLibsGame\obj\Debug\SmallBeginningsMadLibsGame.exe.manifest
+C:\Users\Sammi\source\repos\SmallBeginningsMadLibsGame\SmallBeginningsMadLibsGame\obj\Debug\SmallBeginningsMadLibsGame.application

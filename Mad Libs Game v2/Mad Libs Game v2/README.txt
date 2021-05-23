@@ -1,0 +1,1 @@
+To start the application click setup.exe or SmallBeginningsMadLibsGame
